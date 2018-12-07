@@ -1,11 +1,15 @@
 # dens-express-boilerplate
 
-A vanilla express app to provide useful code snippets for future use.
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+
+Useful code snippets for new express projects.
+
+---
 
 ## Code of Conduct
 
-[Read here.](CODE-OF-CONDUCT.md)
+[Read our Code of Conduct here.](CODE-OF-CONDUCT.md)
 
 ## License
 
-[MIT License](LICENSE)
+[Free and Open Source under the MIT License.](LICENSE)
